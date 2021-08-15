@@ -7,4 +7,4 @@
 * Запуск A/B-теста;
 * Анализ результатов.
 
-**Стек**: pandas, plotly, numpy, scipy, matplot, seaborn, datetime
+**Стек**: pandas, plotly, numpy, scipy, matplot, seaborn
