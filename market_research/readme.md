@@ -6,6 +6,8 @@
 
 **Цель:** Исследовать рынок общественного питания Москвы и дать рекомендации о виде заведения, количество посадочных мест и районе расположения.
 
+**Стек**: pandas, matplot, plotly, numpy, re, folium, requests, dadata, tqdm, API Yandex.Geocoder
+
 Описание данных:
 * id — идентификатор объекта;
 * object_name — название объекта общественного питания;
@@ -13,5 +15,3 @@
 * object_type — тип объекта общественного питания;
 * address — адрес;
 * number — количество посадочных мест.
-
-**Стек**: pandas, matplot, plotly, numpy, re, folium, requests, dadata, tqdm, API Yandex.Geocoder
