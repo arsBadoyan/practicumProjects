@@ -8,6 +8,13 @@
 
 **Стек**: pandas, sklearn, XGBoost, plotly, seaborn, numpy, tqdm.
 
+**Дополнительно нужно обновить библиотеку sklearn и установить библиотеку XGBoost**
+
+```python
+pip install --upgrade sklearn
+pip install xgboost
+```
+
 Данные для исследования:
 - ceiling_height — высота потолков (м)
 - cityCenters_nearest — расстояние до центра города (м)
