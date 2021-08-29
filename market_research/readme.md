@@ -14,6 +14,9 @@
 pip install dadata
 pip install folium
 ```
+**Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются карты folium**.
+[Смотреть работу](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/market_research/market_research.ipynb)
+
 
 Описание данных:
 * id — идентификатор объекта;
