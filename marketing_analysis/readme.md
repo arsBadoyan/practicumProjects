@@ -10,6 +10,7 @@
 
 **Стек**: pandas, numpy, seaborn, matplot, plotly
 
+## Установка
 **Дополнительно нужно обновить библиотеку plotly**
 
 ```python
