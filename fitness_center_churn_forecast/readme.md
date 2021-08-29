@@ -21,3 +21,6 @@ pip install --upgrade plotly
 pip install xgboost
 pip install bayesian-optimization
 ```
+---
+**Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
+[Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/fitness_center_churn_forecast/fitness_center_churn_forecast.ipynb)
