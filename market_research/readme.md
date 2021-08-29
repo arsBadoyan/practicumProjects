@@ -8,6 +8,7 @@
 
 **Стек**: pandas, matplot, plotly, numpy, re, folium, requests, dadata, tqdm, API Yandex.Geocoder
 
+## Установка
 **Дополнительно нужно установить библиотеки Dadata и Folium**
 
 ```python
