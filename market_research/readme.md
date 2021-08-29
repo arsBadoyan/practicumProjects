@@ -17,12 +17,3 @@ pip install folium
 ---
 **Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются карты folium**.
 [Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/market_research/market_research.ipynb)
-
----
-Описание данных:
-* id — идентификатор объекта;
-* object_name — название объекта общественного питания;
-* chain — сетевой ресторан;
-* object_type — тип объекта общественного питания;
-* address — адрес;
-* number — количество посадочных мест.
