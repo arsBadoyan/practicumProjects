@@ -1,5 +1,4 @@
-# practicumProjects
-
+# Проекты Data Analyst
 Сертификат: здесь будет ссылка
 ---
 
