@@ -13,6 +13,14 @@
 
 **Cтек**: pandas, numpy, seaborn, plotly, BayesianOptimization, XGBoost, scipy (dendrogram, linkage), sklearn (StandardScaler, GridSearchCV, RandomizedSearchCV, RandomForest, GradientBoosting etc)
 
+**Дополнительно нужно обновить библиотеку plotly и установить библиотеки bayesian-optimization и XGBoost**
+
+```python
+pip install --upgrade plotly
+pip install xgboost
+pip install bayesian-optimization
+```
+
 **Данные для исследования**:
 
 * Gender — пол;
