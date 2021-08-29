@@ -23,4 +23,4 @@ pip install bayesian-optimization
 ```
 ---
 **Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
-[Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/fitness_center_churn_forecast/fitness_center_churn_forecast.ipynb)
+[Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/8f8066b0f75ba96d241778ff778bb16f307bfdb9/fitness_center_churn_forecast/fitness_center_churn_forecast.ipynb)
