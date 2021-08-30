@@ -29,6 +29,6 @@
 pip install --upgrade sklearn
 pip install xgboost
 ```
----
+## Важно
 **Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
 [Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/real_estate_research/real_estate_research.ipynb)
