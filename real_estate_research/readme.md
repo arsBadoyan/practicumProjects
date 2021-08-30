@@ -6,7 +6,7 @@
 
 **Задача**. Выявить параметры и ценообразующие факторы.
 
-**Стек**: pandas, sklearn, XGBoost, plotly, seaborn, numpy, tqdm.
+**Стек**: pandas, sklearn (RandomForest, GradientBoosting, RandomizedSearch, GridSearch etc.), XGBoost, plotly, seaborn, numpy, tqdm.
 
 Данные для исследования:
 - ceiling_height — высота потолков (м)
