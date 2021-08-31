@@ -22,5 +22,6 @@ pip install xgboost
 pip install bayesian-optimization
 ```
 ## Важно
+В папке с проектом лежат 2 ноутбука: <project>_with_plotly.ipynb
 **Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
 [Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/8f8066b0f75ba96d241778ff778bb16f307bfdb9/fitness_center_churn_forecast/fitness_center_churn_forecast.ipynb)
