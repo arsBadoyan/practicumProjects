@@ -17,3 +17,7 @@
 * DeviceIDHash — уникальный идентификатор пользователя;
 * EventTimestamp — время события;
 * ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+
+## Важно
+**Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
+[Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/startup_analysis/startup_analysis.ipynb)

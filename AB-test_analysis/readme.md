@@ -8,3 +8,7 @@
 * Анализ результатов.
 
 **Стек**: pandas, plotly, numpy, scipy, matplot, seaborn
+
+## Важно
+**Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
+[Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/AB-test_analysis/AB_test_analysis.ipynb)
