@@ -8,6 +8,13 @@
 
 **Cтек**: pandas, numpy, seaborn, matplot, plotly, scipy
 
+## Краткий вывод
+Выявили закономерности, которые определяют успешность игры:
+* Высокий рейтинг
+* Популярная платформа (PS4/XOne/3DS)
+* Жанр игры - Action
+* Высокая оценка критиков
+
 ## Важно
 **Рекомендую открыть работу через nbviewer, так как на GitHub не отображаются интерактивные графики plotly**.
 [Смотреть проект](https://nbviewer.jupyter.org/github/arsBadoyan/practicumProjects/blob/main/game_store_analysis/game_store_analysis.ipynb)

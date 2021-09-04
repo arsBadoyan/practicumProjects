@@ -13,6 +13,11 @@
 
 **Cтек**: pandas, numpy, seaborn, plotly, BayesianOptimization, XGBoost, scipy (dendrogram, linkage), sklearn (StandardScaler, GridSearchCV, RandomizedSearchCV, RandomForest, GradientBoosting etc)
 
+## Краткий вывод
+* Обучили несколько моделей и по метрикам выбрали лучшую модель (Gradient Boosting)
+* Сегментировали пользователей и описали каждую группу
+* Разработали рекомендации по взаимодействую с клиентами
+
 ## Установка
 **Дополнительно нужно обновить библиотеку plotly и установить библиотеки bayesian-optimization и XGBoost**
 
