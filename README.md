@@ -22,3 +22,8 @@
 | [Прогнозирование оттока клиентов фитнес-центров](https://github.com/arsBadoyan/practicumProjects/tree/main/fitness_center_churn_forecast)  | На основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце. Кластеризовать пользователей | pandas, numpy, seaborn, plotly, BayesianOptimization, XGBoost, scipy, sklearn           | Исследовательский анализ данных, машинное обучение, классификация, кластеризация                  |
 | [Анализ рынка недвижимости в Санкт-Петербурге](https://github.com/arsBadoyan/practicumProjects/tree/main/real_estate_research)    | Используя данные сервиса Яндекс.Недвижимость, определить ценообразующие факторыы и обучить модель прогнозирования рыночной стоимости недвижимости          | pandas, sklearn, XGBoost, plotly, seaborn, numpy, tqdm                                  | Исследовательский анализ данных, предобработка данных, визуализация, машинное обучение, регрессия |
 | [Исследование рынка общественного питания Москвы](https://github.com/arsBadoyan/practicumProjects/tree/main/market_research) | Исследовать рынок общественного питания Москвы и дать рекомендации о виде заведения, количество посадочных мест и районе расположения.                     | pandas, matplot, plotly, numpy, re, folium, requests, dadata, tqdm, API Yandex.Geocoder | Визуализация данных, предобработка данных, API, Yandex.Geocoder, Dadata                           |
+
+## Контакты
+* Telegram `+79916668339`
+* arsbadoyan@gmail.com
+* http://www.linkedin.com/in/arsBadoyan
