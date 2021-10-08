@@ -1,5 +1,5 @@
 # Проекты Data Analyst
-Сертификат: здесь будет ссылка
+[Сертификат](https://drive.google.com/file/d/1JYyO88HL7IdEHA8adishq83Z1Yfxj8yt/view?usp=sharing)
 ---
 
 На данном репозитории представлены проекты, выполненные мною в процессе обучения на [Яндекс.Практикуме](https://practicum.yandex.ru/) по профессии [Аналитик данных](https://practicum.yandex.ru/data-analyst/).
